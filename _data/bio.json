@@ -1,31 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Yuzuki Fujimoto",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/yafujimoto.png",
+    "email": "yuzukif@hawaii.edu",
+    "phone": "808-366-9773",
+    "website": "https://yafujimoto.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "yafujimoto", "url": "http://github.com/yafujimoto" },
+      { "network": "linkedin", "username": "yuzuki-f", "url": "http://linkedin.com/in/yuzuki-f-1389b3233" },
+      { "network": "instagram", "username": "yuzufujimoto_", "url": "http://instagram.com/yuzufujimoto_" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "CyberSecurity" },
+    { "name": "Software Engineering" },
+    { "name": "Digital Forensics" },
+    { "name": "Photography" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -35,25 +33,43 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science, Security Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-8-15",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Discrete Math I and II", "Computer Science I and II", "Machine Learning"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bank of Hawai'i",
+      "position": "IT Risk and Controls Management Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2023-06-02",
+      "endDate": "2023-08-13",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Attend and take notes at general and SOX meetings.",
+        "Create learning materials to educate different business units on how they interact with confidential information and associate them to different risks involved through intensive research and interviews.",
+        "Compiled phishing emails through PhishER KnowBe4.",
+        "Demonsrated understanding of ERA(Engagement risk assessments) and Vendor risk management."
+
+      ]
+    },
+    {
+      "company": "UH Manoa Department of Plant and Environmental Protective Services",
+      "position": "Office Assistant",
+      "website": "",
+      "startDate": "2023-08-13",
+      "endDate": "2023-12-13",
+      "summary": "Student Assistant for PEPS Office",
+      "highlights": [
+        "Proficiently manage travel logistics for professors and graduate assistants within the PEPS department, utilizing RCUH and Etravel systems to create travel request forms and travel completions.",
+        "Process reimbursement requests, meticulously tracking and verifying expenses paid out of pocket as well as mileage claims, ensuring accuracy and timeliness.",
+        "Contribute to the efficient functioning of the office by providing essential administrative support, including handling IDOs (Internal Department Orders) and collecting mail.",
+        "Demonstrate strong data entry skills, consistently inputting and maintaining large volumes of critical information with precision and speed, meeting strict time constraints."
+
       ]
     },
     {
@@ -98,7 +114,7 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Dean's List",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
