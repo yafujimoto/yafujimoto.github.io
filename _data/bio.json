@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yafujimoto", "url": "http://github.com/yafujimoto" },
-      { "network": "linkedin", "username": "yuzuki-f", "url": "http://linkedin.com/in/yuzuki-f-1389b3233" },
-      { "network": "instagram", "username": "yuzufujimoto_", "url": "http://instagram.com/yuzufujimoto_" }
+      { "network": "linkedin", "username": "yuzuki-f", "url": "http://linkedin.com/in/yuzuki-f-1389b3233" }
     ]
   },
   "interests": [
