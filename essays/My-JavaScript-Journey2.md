@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "My JavaScript Journey 2"
+title: "My JavaScript Journey"
 # All dates must be YYYY-MM-DD format!
-date: 2034-01-16
+date: 2023-01-16
 published: true
 labels:
   - JavaScript
