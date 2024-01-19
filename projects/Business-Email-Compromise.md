@@ -1,7 +1,7 @@
 ---
 layout: project
-type: project
-image: img/IMG_7772.PNG
+type: project 
+image: img/IMG_77718493u4.png
 title: "Business Email Compromise"
 date: 2023
 published: true
