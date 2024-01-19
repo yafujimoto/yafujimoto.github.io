@@ -1,4 +1,4 @@
----
+![image](https://github.com/yafujimoto/yafujimoto.github.io/assets/143809479/f2f4882c-8f24-42da-9663-3dc73899ee6b)---
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
@@ -13,8 +13,9 @@ summary: "My team was tasked to test and identify risk to Bank of Hawai'i for Bu
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://github.com/yafujimoto/yafujimoto.github.io/blob/main/img/IMG_7772.pdf" class="img-thumbnail" >
+  <img width="200px" src="../img/IMG_7772.PNG" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
   
 </div>
