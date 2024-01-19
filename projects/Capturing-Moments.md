@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_0772.PNG
+image: img/IMG_0772round2.PNG
 title: "Capturing Moments"
 date: 2018-2022
 published: true
