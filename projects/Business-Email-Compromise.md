@@ -1,4 +1,3 @@
-![image](https://github.com/yafujimoto/yafujimoto.github.io/assets/143809479/f2f4882c-8f24-42da-9663-3dc73899ee6b)---
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
