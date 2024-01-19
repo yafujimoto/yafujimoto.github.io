@@ -1,3 +1,4 @@
+---
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
@@ -5,9 +6,8 @@ title: "Business Email Compromise"
 date: 2023
 published: true
 labels:
-  - IT Risk and Controls Management
+  - IT Risk
   - Phishing
-
 summary: "My team was tasked to test and identify risk to Bank of Hawai'i for Business Email Compromise."
 ---
 
