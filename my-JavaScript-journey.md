@@ -4,7 +4,7 @@ type: essay
 title: "My Javascript Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
