@@ -7,7 +7,7 @@
     "phone": "808-366-9773",
     "website": "https://yafujimoto.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "yafujimoto", "url": "http://github.com/yafujimoto" },
       { "network": "linkedin", "username": "yuzuki-f", "url": "http://linkedin.com/in/yuzuki-f-1389b3233" }
@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2021-8-15",
       "endDate": "Present",
-      "courses": ["Discrete Math I and II", "Computer Science I and II", "Machine Learning"
+      "courses": ["Discrete Math I and II", "Computer Science I and II", "Machine Learning, Software Engineering, Algorithms"
       ]
     }
   ],
