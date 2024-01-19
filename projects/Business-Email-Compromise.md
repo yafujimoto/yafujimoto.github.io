@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_7772.PNG
 title: "Business Email Compromise"
 date: 2023
 published: true
