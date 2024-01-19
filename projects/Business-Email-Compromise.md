@@ -9,11 +9,11 @@ labels:
   - IT Risk and Controls Management
   - Phishing
 
-summary: "My team team test and identify risk to Bank of Hawai'i for business email compromise."
+summary: "My team was tasked to test and identify risk to Bank of Hawai'i for business email compromise."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src=".../img/IMG_7772.HEIC" class="img-thumbnail" >
+  <img width="200px" src="https://github.com/yafujimoto/yafujimoto.github.io/blob/main/img/IMG_7772.pdf" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
   
