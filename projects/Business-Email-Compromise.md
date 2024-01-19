@@ -9,7 +9,7 @@ labels:
   - IT Risk and Controls Management
   - Phishing
 
-summary: ""
+summary: "My team was tasked to test and identify risk to Bank of Hawai'i for Business Email Compromise."
 ---
 
 <div class="text-center p-4">
