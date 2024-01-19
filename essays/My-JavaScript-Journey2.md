@@ -9,7 +9,7 @@ labels:
   - JavaScript
 ---
 
-## My Thoughts on JavaScript
+## My Thoughts on Javascript
 With no prior experience using Javascript, I came into ICS314 under the assumption that it would be similar to Java. Boy, was I wrong. To my current knowledge, JavaScript is a scripting language mainly used for web and game development. Java, a compiled high-level language, is employed in server-side web development, Android app creation, and enterprise applications, featuring object-oriented principles and platform independence. I think Javascript is a good programming language from a software engineering perspective due to the versatility for front and back end web development and is one of the most popular and in -demand languages software engineers commonly utilize. Out of all the languages I’ve learned so far, I personally found C/C++ the easiest to comprehend, but I am excited to continue learning Javascript this semester. Each programming language serves drastically different purposes, nonetheless all very useful. 
 
 ## Athletic Software Engineering? WODs?
