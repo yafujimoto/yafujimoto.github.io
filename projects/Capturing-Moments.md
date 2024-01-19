@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/IMG_0772.PNG
 title: "Capturing Moments"
 date: 2018-2022
 published: true
