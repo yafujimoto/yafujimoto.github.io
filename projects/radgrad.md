@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "radgrad"
 date: 2023
-published: true
+published: false
 labels:
   - Robotics
   - Arduino
