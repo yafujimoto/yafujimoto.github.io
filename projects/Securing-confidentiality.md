@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_7574.PNG
+image: img/IMG_6819093248.png
 title: "Securing Confidentiality"
 date: 2023
 published: true
