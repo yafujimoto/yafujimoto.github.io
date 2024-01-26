@@ -11,15 +11,9 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/download.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+I used to believe when teachers would say that “there is no such thing as a stupid question!” My classmates, including myself, would often fire away with questions that could easily be found if a little bit of searching was done. We were often redirected to another website or google. Unknowingly, we were asking not-so-smart questions.
+As a software engineer, it's common for us to encounter challenges related to code or computer issues. Whether you seek assistance from online sources such as Google or in classrooms from professors, asking smart questions is a crucial skill to have. The ability to pose well-thought-out questions is essential for obtaining effective and quality help. If you ask a not-smart question, you may be hit back with a “RTFM” or a “STFW.” Software engineers often work in collaborative spaces with other group members working to solve problems. Asking smart questions in this particular situation is important because they can elicit thoughtful and meaningful conversations as well as spark new ideas. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
 
 ## Smart Questions for Software Engineers
 
