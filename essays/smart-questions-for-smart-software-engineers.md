@@ -24,7 +24,7 @@ It’s important for us to ask the “smart questions". Software engineers often
 Please tell me the code . If you just tell me what the problem is, I maybe wouldn't know how to fix it. It would be best if you could tell me what's wrong and then write the correct code (not necessarily the whole code, just the part I need). If then the real problem is me because I forgot something or made a typo, then I am sorry for asking this question.”*
 
 
-## What's wrong with this question?
+## Let's Dive in
 
 There are several issues with this question aside with the grammatical errors– 
 First, let's look at the header. The header doesn’t explicitly and concisely state the description of the issue. No reader wouldn’t understand the issue without having to further look into the description. It doesn’t attract experts’ attention and can be easily dismissed. 
@@ -33,8 +33,8 @@ Now let's look at the question. Before asking a question, you should try to unde
 A positive aspect of this situation is that the user demonstrated appreciation by following up and expressing gratitude after receiving a response. This acknowledgment helps foster a positive and supportive community or environment for seeking help and sharing knowledge.
 
 
-## Conclusion
+## My Final Thoughts
 
-Until recently, I didn’t quite understand the difference between a smart and not-so-smart question until it became quite obvious. The difference between the two can ultimately determine whether you receive an answer or not. A not-so-smart question can be unattractive for “hackers” who volunteer their time to help educate others. Before asking a question, I suggest you conduct preliminary research first. If you find yourself questioning whether a question is 'smart,' chances are it might not be. Taking the initiative to explore the issue independently not only demonstrates proactiveness but also enables you to present your question more precisely. This approach respects the time and expertise of those you might seek assistance from, fostering a more smoother and effective problem-solving process.
+Until recently, I didn’t quite understand the difference between a smart and not-so-smart question until it became quite obvious. The difference between the two can ultimately determine whether you receive an answer or not. A not-so-smart question can be unattractive for “hackers” who volunteer their time to help educate others. Before asking a question, I suggest you conduct preliminary research first. If you find yourself questioning whether a question is 'smart,' chances are it might not be. Taking the initiative to explore the issue independently not only demonstrates proactiveness but also enables you to present your question more precisely. This approach respects the time and expertise of those you might seek assistance from, fostering a more smoother and effective problem-solving process. Asking the right questions can pave the way for networking opportunities and encourage others to respond to your inquiries.
 
 
