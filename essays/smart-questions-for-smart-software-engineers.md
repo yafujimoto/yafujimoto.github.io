@@ -29,11 +29,11 @@ As a software engineer, it's common for us to encounter challenges related to co
 
 ## Let's look at an example!
 
-Header: I am trying to move my character but instead of that the player wont move
+# Header: I am trying to move my character but instead of that the player wont move
 
-“I am trying to move my character. I wrote it just like in a tutorial(link). It doesn't work. My character just wont move. I do not see any errors neither! Did I forget to add something to my code - in the KEYDOWN section? So the whole Code is here but the problem probably is in the KEYDOWN section or the player coordinates. Here is the code: 
+*“I am trying to move my character. I wrote it just like in a tutorial(link). It doesn't work. My character just wont move. I do not see any errors neither! Did I forget to add something to my code - in the KEYDOWN section? So the whole Code is here but the problem probably is in the KEYDOWN section or the player coordinates. Here is the code: 
 {INSERTED CODE}
-Please tell me the code . If you just tell me what the problem is, I maybe wouldn't know how to fix it. It would be best if you could tell me what's wrong and then write the correct code (not necessarily the whole code, just the part I need). If then the real problem is me because I forgot something or made a typo, then I am sorry for asking this question.”
+Please tell me the code . If you just tell me what the problem is, I maybe wouldn't know how to fix it. It would be best if you could tell me what's wrong and then write the correct code (not necessarily the whole code, just the part I need). If then the real problem is me because I forgot something or made a typo, then I am sorry for asking this question.”*
 
 
 ## What's wrong with this question?
