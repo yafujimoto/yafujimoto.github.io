@@ -23,7 +23,7 @@ As a software engineer, it's common for us to encounter challenges related to co
 
 ## Let's look at an example!
 
-# Header: I am trying to move my character but instead of that the player wont move
+### Header: I am trying to move my character but instead of that the player wont move
 
 *“I am trying to move my character. I wrote it just like in a tutorial(link). It doesn't work. My character just wont move. I do not see any errors neither! Did I forget to add something to my code - in the KEYDOWN section? So the whole Code is here but the problem probably is in the KEYDOWN section or the player coordinates. Here is the code: 
 {INSERTED CODE}
