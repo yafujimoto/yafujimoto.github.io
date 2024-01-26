@@ -24,7 +24,7 @@ It’s important for us to ask the “smart questions". Software engineers often
 Please tell me the code . If you just tell me what the problem is, I maybe wouldn't know how to fix it. It would be best if you could tell me what's wrong and then write the correct code (not necessarily the whole code, just the part I need). If then the real problem is me because I forgot something or made a typo, then I am sorry for asking this question.”*
 
 
-## Let's Dive in
+## Let's Dive in...
 
 There are several issues with this question aside with the grammatical errors– 
 First, let's look at the header. The header doesn’t explicitly and concisely state the description of the issue. No reader wouldn’t understand the issue without having to further look into the description. It doesn’t attract experts’ attention and can be easily dismissed. 
