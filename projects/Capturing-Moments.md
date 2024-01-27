@@ -31,10 +31,10 @@ My passion for photography and videography started in highschool that has contin
 
 
 
-To view some of my projects: 
-(https://www.instagram.com/p/CPSKp9GgXrG/)
-(https://www.instagram.com/p/CGJzmjol5t-/)
-(https://www.instagram.com/p/CBJYButlnTg/)
-(https://www.instagram.com/p/B93XlEVF1EA/)
+To view some of my projects: <br>
+[project 1](https://www.instagram.com/p/CPSKp9GgXrG/)<br>
+[project 2](https://www.instagram.com/p/CGJzmjol5t-/)<br>
+[project 3](https://www.instagram.com/p/CBJYButlnTg/)<br>
+[project 4](https://www.instagram.com/p/B93XlEVF1EA/)
 
 
