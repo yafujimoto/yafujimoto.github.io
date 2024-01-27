@@ -35,6 +35,9 @@ To view some of my projects: <br>
 [project 1](https://www.instagram.com/p/CPSKp9GgXrG/)<br>
 [project 2](https://www.instagram.com/p/CGJzmjol5t-/)<br>
 [project 3](https://www.instagram.com/p/CBJYButlnTg/)<br>
-[project 4](https://www.instagram.com/p/B93XlEVF1EA/)
+[project 4](https://www.instagram.com/p/B93XlEVF1EA/)<br>
+
+*Certain pictures were captured with the assistance of additional photographers.
+
 
 
