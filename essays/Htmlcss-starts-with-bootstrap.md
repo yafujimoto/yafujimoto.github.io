@@ -6,7 +6,9 @@ title: "HTML/CSS starts with Bootstrap"
 date: 2024-01-25
 published: true
 labels:
-  - Software Engineering
+  - HTML
+  - CSS
+  - Bootstrap
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.svg.png">
