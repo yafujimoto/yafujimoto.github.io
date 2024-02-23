@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Bootstrap"
+title: "HTML/CSS starts with Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-25
 published: true
@@ -23,10 +23,10 @@ I really enjoyed taking advantage of the prewritten components, layouts, and sty
 ## My Recent Bootstrap 5 projects!
 
 Original: 
-<img width="200px" class="rounded float-start pe-4" src="../img/Original%20HPD.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Original%20HPD.png">
 
 Mine: 
-<img width="200px" class="rounded float-start pe-4" src="../img/My%20HPD.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/My%20HPD.png">
 
 
 
