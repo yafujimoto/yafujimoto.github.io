@@ -22,7 +22,11 @@ I really enjoyed taking advantage of the prewritten components, layouts, and sty
 
 ## My Recent Bootstrap 5 projects!
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.svg.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.svg.png">
+Original: 
+<img width="200px" class="rounded float-start pe-4" src="../img/Original%20HPD.png">
+
+Mine: 
+<img width="200px" class="rounded float-start pe-4" src="../img/My%20HPD.png">
+
 
 
