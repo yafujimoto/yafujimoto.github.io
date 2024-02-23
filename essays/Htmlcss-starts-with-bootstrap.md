@@ -27,6 +27,7 @@ I really enjoyed taking advantage of the prewritten components, layouts, and sty
 Original: <br>
 <img width="400px" class="rounded float-start pe-4" src="../img/Original%20HPD.png"><br>
 
+ <br>
 Mine: <br>
 <img width="400px" class="rounded float-start pe-4" src="../img/My%20HPD.png"><br>
 
