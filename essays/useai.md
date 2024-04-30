@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Is AI acceptable in Software Engineering?"
+# All dates must be YYYY-MM-DD format!
+date: 2024-04-30
+published: true
+labels:
+  - JavaScript
+---
+<img width="200px" class="rounded float-start pe-4" src="../img/javascript-logo-javascript-icon-transparent-free-png.png">
+
 ### I. Introduction
 
 
