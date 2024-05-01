@@ -17,11 +17,11 @@ labels:
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
-
+For experience WODs, I did not think to use any form of AI because there were always detailed instructions, helpful clips, and youtube videos given to us as a resource.  
   2. In-class Practice WODs
-
+For in-class practice WODs, 
   3. In-class WODs
-
+For in-class WODs, 
   4. Essays
 
   5. Final project
