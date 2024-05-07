@@ -8,7 +8,7 @@ published: true
 labels:
   - JavaScript
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/javascript-logo-javascript-icon-transparent-free-png.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/chatgpt-logo-chat-gpt-app-icon-on-green-background-free-vector.jpg">
 
 ### I. Introduction
 
