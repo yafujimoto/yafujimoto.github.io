@@ -61,7 +61,7 @@ One challenge I've encountered in the use of AI within the course is finding the
 
 
 ### VII. Future Considerations:
-
+Regardless of our preferences, AI is here to stay for the foreseeable future. It's crucial that education around and the utilization of AI become commonplace. Although banning AI usage for assignments in grade school might seem like a straightforward solution, it would ultimately disadvantage students. Given that AI is likely to influence their future careers, failing to prepare them for the AI-driven world would be counterproductive especially in the software engineering field as well.
 
 ### VIII. Conclusion:
 
