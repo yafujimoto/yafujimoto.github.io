@@ -8,6 +8,7 @@ published: true
 labels:
   - JavaScript
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/digitalforensics.jpg">
 
 ## My Software Engineering Career Plan
 I started playing minecraft in the fourth grade and that was where it all began. In Minecraft, players can use command blocks to execute commands and scripts within the game. This is a form of visual programming, allowing users to understand basic programming concepts like conditional statements and loops. This was my first interaction with software engineering. Minecraft provided an interactive yet fun environment for beginners like myself to start learning coding concepts while also tapping into my inner creativity. <br>
