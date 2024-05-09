@@ -10,6 +10,8 @@ labels:
   - Design Patterns
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/hogwarts.png">
+
 Legos in design patterns? How does that have anything to do with software engineering or even UI design? Before you scroll away, let me explain. In software engineering, design patterns are generalized solutions to commonly recurring problems. Think of them not as final products, but as templates to be adapted to meet the specific needs of a problem. So, what do Legos have to do with design patterns?
 
 Legos are not only part of my core childhood, but also can be used as a metaphor for design patterns. What's the recurring problem? Let's say the recurring problem is the desire to build something, anything. The general solution? Building blocks. While I may choose to build a Harry Potter Hogwarts Castle, it won't always cater to everyone's specific vision. What if someone wants to build a treehouse with glass windows? This can be done by adding specialized leaf pieces or window pieces. What if someone wanted to build a pirate ship? We would then add canons and a helm piece. The extra specific pieces represents the flexibility that software engineers can add to modify and shape the final product to fit various requirements.
