@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/download.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/issuepic.png">
 
 With my time in ICS 314 coming to an end, I want to reflect on all of the key components that makes up Software Engineering. I've learned that its not just about typing code and running it to see if it correctly executes or not. There's more to it than just that. We've learned about Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards, User Interface Frameworks, Agile Project Management, Design Patterns, and Ethics in Software Engineering. I will say this was the most time consuming class I have ever taken but boy this is the most I've ever learned in a class. I will take everything I have learned and apply it to my future as I move forth in my career in tech. With that being said, let's dig deep into a few of my most valuable lessons learned. 
 
