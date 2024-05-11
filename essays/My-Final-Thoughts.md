@@ -9,8 +9,6 @@ labels:
   - Software Engineering
 ---
 
-<img class="rounded float-start pe-4" src="../img/issuepic.png">
-
 With my time in ICS 314 coming to an end, I want to reflect on all of the key components that makes up Software Engineering. I've learned that its not just about typing code and running it to see if it correctly executes or not. There's more to it than just that. We've learned about Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards, User Interface Frameworks, Agile Project Management, Design Patterns, and Ethics in Software Engineering. I will say this was the most time consuming class I have ever taken but boy this is the most I've ever learned in a class. I will take everything I have learned and apply it to my future as I move forth in my career in tech. With that being said, let's dig deep into a few of my most valuable lessons learned. 
 
 ## Coding Standards
@@ -20,4 +18,6 @@ As my ICS 212 professor said, "there is no point of writing code if your teammat
 
 ## Agile Project Management 
 The second valuable lesson I want to talk about is  Issue Driven Project Management (IDPM) in Agile Project Management. IDPM is a management process created to help the organizatino of project development of a group of people. This semester, I was very fortunate to work with a great group of people for my final project: Manoa Rainbow Cards. IDPM breaks up a project into several milestones, ours had 3 milestones, that was spread out over the course of a month. For each milestone, the workload between each member of the group was divided evenly. The idea of the issue driven project management was that each member would work on 1 issue at a time and once completed, it would be checked and sent to the "completed" box. Each issue has a description of the task and keeps everyone on track to completing the project on time. To stay accountable, it keeps track of the amount of issues one has completed. 
- 
+
+Milestone 2 from our Final project: 
+<img class="rounded float-start pe-4" src="../img/issuepic.png">
