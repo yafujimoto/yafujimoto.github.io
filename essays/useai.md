@@ -4,7 +4,7 @@ type: essay
 title: "Is AI acceptable in Software Engineering?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-30
-published: true
+published: false
 labels:
   - JavaScript
 ---
