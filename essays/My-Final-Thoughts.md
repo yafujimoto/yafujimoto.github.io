@@ -20,4 +20,5 @@ As my ICS 212 professor said, "there is no point of writing code if your teammat
 The second valuable lesson I want to talk about is  Issue Driven Project Management (IDPM) in Agile Project Management. IDPM is a management process created to help the organizatino of project development of a group of people. This semester, I was very fortunate to work with a great group of people for my final project: Manoa Rainbow Cards. IDPM breaks up a project into several milestones, ours had 3 milestones, that was spread out over the course of a month. For each milestone, the workload between each member of the group was divided evenly. The idea of the issue driven project management was that each member would work on 1 issue at a time and once completed, it would be checked and sent to the "completed" box. Each issue has a description of the task and keeps everyone on track to completing the project on time. To stay accountable, it keeps track of the amount of issues one has completed. 
 
 Milestone 2 from our Final project: 
-<img class="rounded float-start pe-4" src="../img/issuepic.png">
+<img width= "500px" class="rounded float-start pe-4" src="../img/issuepic.png">
+
