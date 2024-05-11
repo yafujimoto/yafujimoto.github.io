@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo.png
+image: img/logo2.png
 title: "Manoa Rainbow Cards"
 date: 2023
 published: true
@@ -21,7 +21,8 @@ I learned a lot about what it takes to be part of a group project at high stakes
 <img width="200px" src="../img/homepage.png" >
 
 Link to our Homepage: 
-https://manoa-rainbow-cards.xyz/home
+[https://manoa-rainbow-cards.xyz/home](https://manoa-rainbow-cards.xyz/home)<br>
 
 Direct link to website: 
-https://rainbow-cards.github.io/
+[https://rainbow-cards.github.io/](https://rainbow-cards.github.io/)<br>
+
