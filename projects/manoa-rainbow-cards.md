@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/logo.png
 title: "Manoa Rainbow Cards"
 date: 2023
 published: true
