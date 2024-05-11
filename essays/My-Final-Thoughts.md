@@ -11,30 +11,13 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/download.png">
 
-I used to believe when teachers would say that “there is no such thing as a stupid question!” Thus, my classmates, including myself, would often fire away with questions that could easily be found with a little bit of research. We were often redirected to another website or google. Unknowingly, we were asking the not-so-smart questions.
-As a software engineer, it's common for us to encounter challenges related to code or computer issues. Whether you seek assistance from online sources such as Google or in classrooms from professors, asking smart questions is a crucial skill to have. The ability to pose well-thought-out questions is essential for obtaining effective and quality help. If you ask a not-smart question, you may be hit back with a “RTFM” or a “STFW.” 
-It’s important for us to ask the “smart questions". Software engineers often work in collaborative spaces with other group members working to solve problems. Asking smart questions in this particular situation is important because they can elicit thoughtful and meaningful conversations as well as spark new ideas among groups. Whilst on the topic of group work, peers may grow a deeper level of trust among those who ask smart questions. As a result of doing independent research and asking more thought-provoking questions, they will have a higher level of respect for you. 
+With my time in ICS 314 coming to an end, I want to reflect on all of the key components that makes up Software Engineering. I've learned that its not just about typing code and running it to see if it correctly executes or not. There's more to it than just that. We've learned about Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards, User Interface Frameworks, Agile Project Management, Design Patterns, and Ethics in Software Engineering. I will say this was the most time consuming class I have ever taken but boy this is the most I've ever learned in a class. I will take everything I have learned and apply it to my future as I move forth in my career in tech. With that being said, let's dig deep into a few of my most valuable lessons learned. 
 
-## Let's look at an example!
+## Coding Standards
 
-##### *I am trying to move my character but instead of that the player wont move*
+Coding standards are universal guidelines for programming code within a software project. They ensure organization and readability across the project by establishing rules for written code such as naming conventions, organization, indentation, structured programming, errors and handling, and etc. For example, having meaningful and understandable variables name helps anyone to understand the reason for using it. Proper indentation is important to increase the readability of the code. programmers use white spaces, for example, each nested block. These rules are set so code is understandable and there is no room for misunderstanding among developers, reduce errors and the need for debugging, and promotes sound programming practices and increases efficiency of the programmers
+As my ICS 212 professor said, "there is no point of writing code if your teammates can't understand or read it. Time is wasted just trying to figure out what in the world you wrote." Essentially, your code and hard work means nothing if no one can read or understand it. 
 
-*“I am trying to move my character. I wrote it just like in a tutorial(link). It doesn't work. My character just wont move. I do not see any errors neither! Did I forget to add something to my code - in the KEYDOWN section? So the whole Code is here but the problem probably is in the KEYDOWN section or the player coordinates. Here is the code: <br>
-{INSERTED CODE} <br>
-Please tell me the code . If you just tell me what the problem is, I maybe wouldn't know how to fix it. It would be best if you could tell me what's wrong and then write the correct code (not necessarily the whole code, just the part I need). If then the real problem is me because I forgot something or made a typo, then I am sorry for asking this question.”*
-
-
-## Let's Dive in...
-
-There are several issues with this question aside with the grammatical errors– 
-First, let's look at the header. The header doesn’t explicitly and concisely state the description of the issue. No reader wouldn’t understand the issue without having to further look into the description. It doesn’t attract experts’ attention and can be easily dismissed. 
-Now let's look at the question. Before asking a question, you should try to understand the problem and take diagnostic steps to figure out what the issue is yourself. You can clearly tell from this “question” that no additional steps had been taken, aside from the youtube tutorial. 
-“It doesn’t work” doesn’t help anyone. You shouldn’t ask others to debug your code without attempting to understand where the issue is or what kind of problem they are looking for. 
-A positive aspect of this situation is that the user demonstrated appreciation by following up and expressing gratitude after receiving a response. This acknowledgment helps foster a positive and supportive community or environment for seeking help and sharing knowledge.
-
-
-## My Final Thoughts
-
-Until recently, I didn’t quite understand the difference between a smart and not-so-smart question until it became quite obvious. The difference between the two can ultimately determine whether you receive an answer or not. A not-so-smart question can be unattractive for “hackers” who volunteer their time to help educate others. Before asking a question, I suggest you conduct preliminary research first. If you find yourself questioning whether a question is 'smart,' chances are it might not be. Taking the initiative to explore the issue independently not only demonstrates proactiveness but also enables you to present your question more precisely. This approach respects the time and expertise of those you might seek assistance from, fostering a more smoother and effective problem-solving process. Asking the right questions can pave the way for networking opportunities and encourage others to respond to your inquiries.
-
-
+## Agile Project Management 
+The second valuable lesson I want to talk about is  Issue Driven Project Management (IDPM) in Agile Project Management. IDPM is a management process created to help the organizatino of project development of a group of people. This semester, I was very fortunate to work with a great group of people for my final project: Manoa Rainbow Cards. IDPM breaks up a project into several milestones, ours had 3 milestones, that was spread out over the course of a month. For each milestone, the workload between each member of the group was divided evenly. The idea of the issue driven project management was that each member would work on 1 issue at a time and once completed, it would be checked and sent to the "completed" box. Each issue has a description of the task and keeps everyone on track to completing the project on time. To stay accountable, it keeps track of the amount of issues one has completed. 
+ 
